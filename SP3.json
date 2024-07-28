@@ -1,0 +1,7 @@
+{
+"name": "Artemis Preview Stakepool",
+"description": "Our test ticket to the moon",
+"ticker": "ARTMS",
+"homepage": "https://artemispool.co.uk",
+"extended": "https://raw.githubusercontent.com/Bryans01/SP2/main/1.json"
+}
